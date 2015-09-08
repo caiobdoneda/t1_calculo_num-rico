@@ -1,7 +1,7 @@
 clear
 clc
 % Método Escalonamento de Gauss Otimizado
-A = single([
+A = double([
 		[2.5 1.0 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4];
 		[0.0 0.52 0.51 0.0 0.1 0.0 0.0 0.0 0.0 0.0 -3];
 		[0.9 1.0 2.9 1.0 0.0 0.0 0.0 0.0 0.0 0.0 1];
